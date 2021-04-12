@@ -1,2 +1,2 @@
-# Games
-Collection of games I've created
+# Moodify
+My contribution to Moodify. 
